@@ -1,0 +1,23 @@
+{
+  "name": "redux-crud-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD application using Redux Toolkit for state management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "@reduxjs/toolkit": "^1.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "4.0.3"
+  },
+  "homepage": "http://localhost:3000",
+  "license": "MIT"
+}
